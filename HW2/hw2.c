@@ -46,19 +46,26 @@ char *lowerWord(char word[]){
     return lower;
 }
 
-void SearchingModel(char model[]){
+int SearchingModel(char model[]){
     printf("%-35s%-35s%-35s%s\n","Model","Memory","DisplaySize","Price");
     int count = 0;
-    for(int i = 0 ; i < size ;i++){
-        if(strcmp((importData + i)->model,model) == 0){
-            printf("%-35s%-35s%-35s%s\n",(importData+i)->model,(importData+i)->memory,(importData+i)->displaySize,(importData+i)->price);
-            count++;
-            break;
-        }
-        //if(strstr(lowerWord((importData+i)->model),lowerWord(model)) == NULL) continue;
-    }
+    // for(int i = 0 ; i < size ;i++){
+    //     //Sequential search
+    //     // if(strcmp((importData + i)->model,model) == 0){
+    //     //     printf("%-35s%-35s%-35s%s\n",(importData+i)->model,(importData+i)->memory,(importData+i)->displaySize,(importData+i)->price);
+    //     //     count++;
+    //     //     break;
+    //     // }
+    //     //if(strstr(lowerWord((importData+i)->model),lowerWord(model)) == NULL) continue;
+    // }
+    //Sentinel search
+    strcpy((importData + size)->model,model);
+    int i = 0;
+    while(strcmp((importData + size)->model,(importData + i)->model) != 0) i++;
+    if ( i < size) return i;
+    else printf("Not Found!!!!");
     printf("Found %d result(s) for '%s'\n",count,model);
-    return;
+    return -1;
 }
 
 int main(){
@@ -108,7 +115,8 @@ int main(){
             do{
                 scanf("%s",model);
             }while(strlen(model) > 20);
-            SearchingModel(model);
+            int i = SearchingModel(model);
+            printf("%-35s%-35s%-35s%s\n",(importData+i)->model,(importData+i)->memory,(importData+i)->displaySize,(importData+i)->price);
             break;
         default:
             break;
