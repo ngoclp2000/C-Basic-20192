@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #include "request_list.h"
 #include "seat_queue.h"
+#include<stdio_ext.h>
 #define MAX_LEN 50
 queue w_seats,c_seats,n_seats,w_pending,c_pending,n_pending;
 list requests;
@@ -59,14 +60,16 @@ void make_new_request(){
     node_t n = (node_t) malloc(sizeof(node_t));
     n->data = (struct Request *) malloc(sizeof(struct Request));
     printf("Enter the name\n");
-    fflush(stdin);
+    __fpurge(stdin);
     gets(n->data->name);
     do{
       printf("Enter the quantity(<=20)\n");
+      __fpurge(stdin);
       scanf("%d",&(n->data->quantity));
     }while(n->data->quantity > 20);
     do{
       printf("Enter the ticket type(1.W,2.C,3.N)\n");
+      __fpurge(stdin);
       scanf("%d",&(n->data->seat_type));
     }while(n->data->seat_type < 1 || n->data->seat_type > 3);
     queue temp;
@@ -120,7 +123,7 @@ void cancelRequest() {
     list c;
     do{
         printf("Enter your name\n");
-        fflush(stdin);
+        __fpurge(stdin);
         gets(name);
         c = find(requests,name);
     }while(c == NULL);
@@ -185,7 +188,7 @@ void printRequest(){
 void searchRequest(){
   printf("Enter your name\n");
   char name[100];
-  fflush(stdin);
+  __fpurge(stdin);
   gets(name);
   list l = find(requests, name);
   printf("%-20s%-18s%-9s%s\n","Name","Type(1.W,2.C,3.N)","Quantity","Ticket");
@@ -194,6 +197,10 @@ void searchRequest(){
     printf("%c%d ",(l->data->reserved_seats +i)->col,(l->data->reserved_seats + i)->row);
   }
   printf("\n");
+}
+void printRemainSeats(){
+  printf("%-5s%-16s%s","Type","NumberAvailable","SeatList");
+
 }
 int main() {
   int running = 1;
@@ -224,6 +231,8 @@ int main() {
       break;
     case 5:
       running = 0;
+      break;
+    case 6:
       break;
     }
   }
