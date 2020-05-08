@@ -1,0 +1,811 @@
+Thong so ky thuat chi tiet Nokia 7.2:
+    Man hinh :
+        Cong nghe man hinh: IPS LCD
+        Do phan giai: Full HD+ (1080 x 2340 Pixels)
+        Man hinh rong:  6.3
+        Mat kinh cam ung:  Kinh cuong luc Corning Gorilla Glass 3
+    Camera sau:
+        Do phan giai: Chinh 48 MP & Phu 8 MP 5 MP
+        Quay phim: Quay phim FullHD 1080p@30fps Quay phim 4K 2160p@30fps
+        Den Flash: Co
+        Chup anh nang cao: Goc sieu rong (Ultrawide) Ban dem (Night Mode) Xoa phong Chong rung dien tu ky thuat so (EIS) A.I Camera Tu dong lay net (AF) Cham lay net Nhan dien khuon mat HDR Toan canh (Panorama)
+    Camera truoc:
+        Do phan giai: 20 MP
+        Videocall: Ho tro VideoCall thong qua ung dung
+        Thong tin khac: HDR Quay video HD Nhan dien khuon mat Quay video Full HD Tu dong lay net (AF)
+    He dieu hanh - CPU:
+        He dieu hanh: Android 9 Pie (Android One)
+        Chipset: (hang SX CPU) Snapdragon 660 8 nhan
+        Toc do CPU: 4 nhan 2.2 GHz & 4 nhan 1.8 GHz
+        Chip do hoa (GPU): Adreno 512
+    Bo nho & Luu tru:
+        RAM: 4 GB
+        Bo nho trong: 64 GB
+        Bo nho con lai (kha dung): Dang cap nhat
+        The nho ngoai: MicroSD ho tro toi da 400 GB
+    Ket noi:
+        Mang di dong: 3G 4G LTE Cat 6
+        SIM: 2 Nano SIM
+        Wifi: Wi-Fi 802.11 a/b/g/n/ac Wi-Fi Direct Wi-Fi hotspot
+        GPS: BDS A-GPS GLONASS
+        Bluetooth: A2DP LE v5.0
+        Cong ket noi/sac:: USB Type-C
+        Jack tai nghe: 3.5 mm
+        Ket noi khac: NFC OTG
+    Thiet ke & Trong luong:
+        Thiet ke: Nguyen khoi
+        Chat lieu: Khung nhom & Mat lung kinh cuong luc
+        Kich thuoc: Dai 159.88 mm - Ngang 75.11 mm - Day 8.25 mm
+        Trong luong: 180 g
+    Thong tin pin & Sac:
+        Dung luong pin: 3500 mAh
+        Loai pin Pin: chuan Li-Ion
+        Cong nghe pin Tiet kiem pin
+    Tien ich:
+        Bao mat nang cao: Mo khoa bang van tay Mo khoa khuon mat
+        Tinh nang dac biet: Mat kinh 2.5D Tro ly ao Google Assistant
+        Ghi am: Co microphone chuyen dung chong on
+        Radio: Co
+        Xem phim: H.265 3GP MP4 AVI WMV H.263
+        Nghe nhac: Midi Lossless MP3 WAV WMA
+    Thong tin khac:
+        Thoi diem ra mat: 09/2019
+        Price: 4.990.000d
+next
+Thong so ky thuat chi tiet Nokia 2.3:
+    Man hinh:
+        Cong nghe man hinh: TFT
+        Do phan giai: HD+ (720 x 1520 Pixels)
+        Man hinh rong:  6.2
+        Mat kinh cam ung:  Dang cap nhat 
+    Camera sau:
+        Do phan giai: Chinh 13 MP & Phu 2 MP
+        Quay phim: Quay phim FullHD 1080@24fps
+        Den Flash: Co
+        Chup anh nang cao: Xoa phong Lam dep Tu dong lay net (AF) HDR Toan canh (Panorama)
+    Camera truoc:
+        Do phan giai: 5 MP
+        Videocall: Ho tro VideoCall thong qua ung dung
+        Thong tin khac: Xoa phong Lam dep (Beautify) HDR
+    He dieu hanh - CPU:
+        He dieu hanh: Android 9 Pie (Android One)
+        Chipset (hang SX CPU): Mediatek MT6761 4 nhan (Helio A22)
+        Toc do CPU: 2.0 GHz
+        Chip do hoa (GPU): PowerVR GE8320
+    Bo nho & Luu tru:
+        RAM: 2 GB
+        Bo nho trong: 32 GB
+        Bo nho con lai (kha dung): Dang cap nhat
+        The nho ngoai MicroSD: ho tro toi da 512 GB
+    Ket noi:
+        Mang di dong: Ho tro 4G
+        SIM: 2 Nano SIM
+        Wifi: Wi-Fi 802.11 b/g/n
+        GPS: A-GPS GLONASS
+        Bluetooth: v5.0
+        Cong ket noi/sac: Micro USB
+        Jack tai nghe: 3.5 mm
+        Ket noi khac: OTG
+    Thiet ke & Trong luong:
+        Thiet ke: Pin lien
+    Chat lieu Khung & Mat lung nhua:
+        Kich thuoc Dai 157.69 mm - Ngang 75.41 mm - Day 8.68 mm
+        Trong luong 183 g
+    Thong tin pin & Sac:
+        Dung luong pin: 4000 mAh
+        Loai pin: Pin chuan Li-Ion
+        Cong nghe pin: Tiet kiem pin
+    Tien ich:
+        Bao mat nang cao: Mo khoa khuon mat
+        Tinh nang dac biet: Den pin Chan tin nhan Chan cuoc goi Tro ly ao Google Assistant
+        Ghi am: Khong
+        Radio: Co
+        Xem phim: 3GP MP4 AVI
+        Nghe nhac: MP3 WAV
+    Thong tin khac:
+        Thoi diem ra mat: 12/2019
+        Price: 2.390.000d
+next
+Thong so ky thuat chi tiet Nokia 3.2 16GB:
+    Man hinh:
+        Cong nghe man hinh: IPS LCD 
+        Do phan giai: HD+ (720 x 1520 Pixels) 
+        Man hinh rong:  6.2  
+        Mat kinh cam ung:  Mat kinh cong 2.5D 
+    Camera sau:
+        Do phan giai: 13 MP 
+        Quay phim: Quay phim FullHD 1080p@30fps 
+        Den Flash: Co 
+        Chup anh nang cao: Tu dong lay net (AF) Cham lay net Nhan dien khuon mat HDR Toan canh (Panorama) 
+    Camera truoc: 
+        Do phan giai: 5 MP 
+        Videocall: Ho tro VideoCall thong qua ung dung 
+        Thong tin khac: Quay video HD Tu dong lay net (AF) 
+    He dieu hanh - CPU: 
+        He dieu hanh: Android 9 Pie (Android One) 
+        Chipset (hang SX CPU): Snapdragon 429 4 nhan 
+        Toc do CPU: 1.8 GHz 
+        Chip do hoa (GPU): Adreno 504 
+    Bo nho & Luu tru: 
+        RAM: 2 GB 
+        Bo nho trong: 16 GB 
+        Bo nho con lai (kha dung): Khoang 5 GB 
+        The nho ngoai MicroSD: ho tro toi da 400 GB 
+    Ket noi: 
+        Mang di dong: Ho tro 4G 
+        SIM: 2 Nano SIM 
+        Wifi: Wi-Fi 802.11 b/g/n Wi-Fi hotspot 
+        GPS: BDS A-GPS GLONASS 
+        Bluetooth: LE apt-X A2DP v4.2 
+        Cong ket noi/sac: Micro USB 
+        Jack tai nghe: 3.5 mm 
+        Ket noi khac: Khong 
+    Thiet ke & Trong luong 
+        Thiet ke: Nguyen khoi 
+    Chat lieu Khung & Mat lung nhua: 
+        Kich thuoc Dai 159.4 mm - Ngang 76.2 mm - Day 8.6 mm 
+        Trong luong 178 g 
+    Thong tin pin & Sac:
+        Dung luong pin: 4000 mAh 
+        Loai pin: Pin chuan Li-Ion 
+        Cong nghe pin: Tiet kiem pin 
+    Tien ich: 
+        Bao mat nang cao: Mo khoa khuon mat 
+        Tinh nang dac biet: Den pin Tro ly ao Google Assistant  
+        Ghi am: Khong 
+        Radio: Co 
+        Xem phim: 3GP MP4 AVI WMV 
+        Nghe nhac: MP3 WAV WMA AAC FLAC 
+    Thong tin khac 
+        Thoi diem ra mat: 05/2019
+        Price: 2.190.000d
+next
+Thong so ky thuat chi tiet Nokia 2.2 
+    Man hinh:
+        Cong nghe man hinh: IPS LCD 
+        Do phan giai: HD+ (720 x 1520 Pixels) 
+        Man hinh rong:  5.71  
+        Mat kinh cam ung:  Kinh cuong luc 
+    Camera sau:
+        Do phan giai: 13 MP 
+        Quay phim: Quay phim HD 720p@30fps Quay phim FullHD 1080p@30fps 
+        Den Flash: Co 
+        Chup anh nang cao: Troi nhanh thoi gian (Time Lapse) Tu dong lay net (AF) Cham lay net Nhan dien khuon mat HDR Toan canh (Panorama) Lam dep (Beautify) 
+    Camera truoc: 
+        Do phan giai: 5 MP 
+        Videocall: Ho tro VideoCall thong qua ung dung 
+        Thong tin khac: Flash man hinh Quay video HD Lam dep (Beautify) Quay video Full HD Tu dong lay net (AF) 
+    He dieu hanh - CPU: 
+        He dieu hanh: Android 9 Pie (Android One) 
+        Chipset (hang SX CPU): Mediatek MT6761 4 nhan (Helio A22) 
+        Toc do CPU: 2.0 
+        GHz 
+        Chip do hoa (GPU): PowerVR GE8320 
+    Bo nho & Luu tru: 
+        RAM: 2 GB 
+        Bo nho trong: 16 GB 
+        Bo nho con lai (kha dung): Khoang 5 GB 
+        The nho ngoai MicroSD: ho tro toi da 400 GB 
+    Ket noi: 
+        Mang di dong: Ho tro 4G 
+        SIM: 2 Nano SIM 
+        Wifi: Wi-Fi 802.11 b/g/n Wi-Fi Direct Wi-Fi hotspot 
+        GPS: BDS A-GPS GLONASS 
+        Bluetooth: A2DP LE v4.2 
+        Cong ket noi/sac: Micro USB 
+        Jack tai nghe: 3.5 mm 
+        Ket noi khac: OTG 
+    Thiet ke & Trong luong 
+        Thiet ke: Pin roi 
+    Chat lieu Khung & Mat lung nhua: 
+        Kich thuoc Dai 146 mm - Ngang 70.6 mm - Day 9.3 mm 
+        Trong luong 153 g 
+    Thong tin pin & Sac: 
+        Dung luong pin: 3000 mAh 
+        Loai pin: Pin chuan Li-Ion 
+        Cong nghe pin: Tiet kiem pin 
+    Tien ich: 
+        Bao mat nang cao: Mo khoa khuon mat 
+        Tinh nang dac biet: Den pin Chan tin nhan Chan cuoc goi Tro ly ao Google Assistant  
+        Ghi am: Khong 
+        Radio: Co 
+        Xem phim: 3GP MP4 AVI 
+        Nghe nhac: MP3 WAV 
+    Thong tin khac 
+        Thoi diem ra mat: 06/2019
+        Price: 1.640.000d
+next
+Thong so ky thuat chi tiet Nokia C1 
+    Man hinh:
+        Cong nghe man hinh: IPS LCD 
+        Do phan giai: FWVGA+ (480 x 960 Pixels) 
+        Man hinh rong:  5.45  
+        Mat kinh cam ung:  Kinh cuong luc 
+    Camera sau:
+        Do phan giai: 5 MP 
+        Quay phim: Quay phim HD 720p@30fps Quay phim FullHD 1080p@30fps 
+        Den Flash: Co 
+        Chup anh nang cao: Troi nhanh thoi gian (Time Lapse) Lam dep Cham lay net Nhan dien khuon mat HDR 
+    Camera truoc: 
+        Do phan giai: 5 MP 
+        Videocall: Ho tro VideoCall thong qua ung dung 
+        Thong tin khac: Quay video HD Lam dep (Beautify) Quay video Full HD    Den Flash: tro sang HDR 
+    He dieu hanh - CPU: 
+        He dieu hanh: Android 9 Pie (Go Edition) 
+        Chipset (hang SX CPU): Spreadtrum SC7731E 4 nhan 
+        Toc do CPU: 4 nhan 1.3 GHz 
+        Chip do hoa (GPU): Mali-T820 MP1 
+    Bo nho & Luu tru: 
+        RAM: 1 GB 
+        Bo nho trong: 16 GB 
+        Bo nho con lai (kha dung): Khoang 6 GB 
+        The nho ngoai MicroSD: ho tro toi da 64 GB 
+    Ket noi: 
+        Mang di dong: 3G 
+        SIM: 2 Nano SIM 
+        Wifi: Wi-Fi 802.11 b/g/n Wi-Fi hotspot 
+        GPS: A-GPS 
+        Bluetooth: A2DP LE v4.2 
+        Cong ket noi/sac: Micro USB 
+        Jack tai nghe: 3.5 mm 
+        Ket noi khac: Khong 
+    Thiet ke & Trong luong 
+        Thiet ke: Pin roi 
+    Chat lieu Khung & Mat lung nhua: 
+        Kich thuoc Dai 147.6 mm - Ngang 71.4 mm - Day 8.7 mm 
+        Trong luong 155 g 
+    Thong tin pin & Sac: 
+        Dung luong pin: 2500 mAh 
+        Loai pin: Pin chuan Li-Ion 
+        Cong nghe pin: Tiet kiem pin 
+    Tien ich: 
+        Bao mat nang cao: Khong 
+        Tinh nang dac biet: Den pin Tro ly ao Google Assistant Chan cuoc goi Chan tin nhan  
+        Ghi am: Co 
+        Radio: Khong 
+        Xem phim: 3GP MP4 AVI 
+        Nghe nhac: MP3 WAV 
+    Thong tin khac 
+        Thoi diem ra mat: 02/2020
+        Price: 1.390.000d
+next
+Thong so ky thuat chi tiet Nokia 230 (khong tang the nho) 
+    Man hinh:
+        Cong nghe man hinh: TFT 
+        Do phan giai: QVGA (240 x 320 Pixels) 
+        Man hinh rong:  2.8  
+        Mat kinh cam ung:  Khong co cam ung 
+    Camera sau:
+        Do phan giai: 2 MP 
+        Quay phim: Quay phim QVGA@15fps 
+        Den Flash: Co 
+        Chup anh nang cao: Khong 
+    Camera truoc: 
+        Do phan giai: 2 MP 
+        Videocall: Khong 
+        Thong tin khac: Den Flash: tro sang 
+    He dieu hanh - CPU: 
+        He dieu hanh Khong 
+        Chipset (hang SX CPU): Khong 
+        Toc do CPU: Khong 
+        Chip do hoa (GPU): Khong 
+    Bo nho & Luu tru: 
+        RAM: Khong 
+        Bo nho trong: Khong 
+        Bo nho con lai (kha dung): Khong 
+        The nho ngoai MicroSD: ho tro toi da 32 GB 
+    Ket noi: 
+        Mang di dong: 2G 
+        SIM: 2 SIM thuong 
+        Wifi: Khong 
+        GPS: Khong 
+        Bluetooth: v3.0 
+        Cong ket noi/sac: Micro USB 
+        Jack tai nghe: 3.5 mm 
+        Ket noi khac: Khong 
+    Thiet ke & Trong luong 
+        Thiet ke: Pin roi 
+    Chat lieu Khung & Mat lung nhua:
+        Nhom
+        Kich thuoc Dai 124.6 mm - Ngang 53.4 mm - Day 10.9 mm 
+        Trong luong 91.8 g 
+    Thong tin pin & Sac: 
+        Dung luong pin: 1200 mAh 
+        Loai pin: Pin Nokia BL-4UL 
+        Cong nghe pin: Khong 
+    Tien ich: 
+        Bao mat nang cao: Khong 
+        Tinh nang dac biet: Truy cap Facebook Messenger Ghi am cuoc goi Gioi han thoi luong cuoc goi  
+        Ghi am: Co 
+        Radio: Co 
+        Xem phim: 3GP MP4 
+        Nghe nhac: MP3 WAV 
+    Thong tin khac 
+        Thoi diem ra mat: 5/2017
+        Price: 1.250.000d
+next
+Thong so ky thuat chi tiet Nokia 3310 
+    Man hinh:
+        Cong nghe man hinh: TFT 
+        Do phan giai: QVGA (240 x 320 Pixels) 
+        Man hinh rong:  2.4  
+        Mat kinh cam ung:  Khong co cam ung 
+    Camera sau:
+        Do phan giai: 2 MP 
+        Quay phim: Co quay phim 
+        Den Flash: Co 
+        Chup anh nang cao: Khong 
+    Camera truoc: 
+        Do phan giai: Khong 
+        Videocall: Khong 
+        Thong tin khac: Khong 
+    He dieu hanh - CPU: 
+        He dieu hanh Khong 
+        Chipset (hang SX CPU): Khong 
+        Toc do CPU: Khong 
+        Chip do hoa (GPU): Khong 
+    Bo nho & Luu tru: 
+        RAM: Khong 
+        Bo nho trong: Khong 
+        Bo nho con lai (kha dung): Khong 
+        The nho ngoai MicroSD: ho tro toi da 32 GB 
+    Ket noi: 
+        Mang di dong: 2G 
+        SIM: 2 Micro SIM 
+        Wifi: Khong 
+        GPS: Khong 
+        Bluetooth: v3.0 
+        Cong ket noi/sac: Micro USB 
+        Jack tai nghe: 3.5 mm 
+        Ket noi khac: Khong 
+        Thiet ke & Trong luong 
+        Thiet ke: Pin roi 
+    Chat lieu Khung & Mat lung nhua: 
+        Kich thuoc Dai 115.6 mm - Ngang 51 mm - Day 12.8 mm 
+        Trong luong 83.4 g 
+    Thong tin pin & Sac: 
+        Dung luong pin: 1200 mAh 
+        Loai pin: Pin chuan Li-Ion 
+        Cong nghe pin: Khong 
+    Tien ich: 
+        Bao mat nang cao: Khong 
+        Tinh nang dac biet: Khong  
+        Ghi am: Co 
+        Radio: Co 
+        Xem phim: 3GP MP4 
+        Nghe nhac: MP3 
+    Thong tin khac 
+        Thoi diem ra mat: 6/2017
+        Price: 1.060.000d
+next
+Thong so ky thuat chi tiet Nokia 5310 (2020) 
+    Man hinh:
+        Cong nghe man hinh: TFT 
+        Do phan giai: QVGA (240 x 320 Pixels) 
+        Man hinh rong:  2.4  
+        Mat kinh cam ung:  Khong co cam ung 
+    Camera sau:
+        Do phan giai: VGA (480 x 640 pixels) 
+        Quay phim: Co quay phim 
+        Den Flash: Co 
+        Chup anh nang cao: Khong 
+    Camera truoc: 
+        Do phan giai: Khong 
+        Videocall: Khong 
+        Thong tin khac: Khong 
+    He dieu hanh - CPU: 
+        He dieu hanh Khong 
+        Chipset (hang SX CPU): Khong 
+        Toc do CPU: Khong 
+        Chip do hoa (GPU): Khong 
+    Bo nho & Luu tru: 
+        RAM: Khong 
+        Bo nho trong: Khong 
+        Bo nho con lai (kha dung): Khong 
+        The nho ngoai MicroSD: ho tro toi da 32 GB 
+    Ket noi: 
+        Mang di dong: 2G 
+        SIM: 2 SIM thuong 
+        Wifi: Khong 
+        GPS: Khong 
+        Bluetooth: v3.0 
+        Cong ket noi/sac: Micro USB 
+        Jack tai nghe: 3.5 mm 
+        Ket noi khac: Khong 
+    Thiet ke & Trong luong 
+        Thiet ke: Pin roi 
+    Chat lieu Khung & Mat lung nhua: 
+        Kich thuoc Dai 123.7 mm - Ngang 52.4 mm - Day 13.1 mm 
+        Trong luong 88.2 g 
+    Thong tin pin & Sac: 
+        Dung luong pin: 1200 mAh 
+        Loai pin: Pin chuan Li-Ion 
+        Cong nghe pin: Khong 
+    Tien ich: 
+        Bao mat nang cao: Khong 
+        Tinh nang dac biet: Den pin Chan tin nhan FM khong can tai nghe Chan cuoc goi  
+        Ghi am: Khong 
+        Radio: Co 
+        Xem phim: Khong 
+        Nghe nhac: MP3 
+    Thong tin khac 
+        Thoi diem ra mat: 03/2020
+        Price: 990.000d
+next
+Thong so ky thuat chi tiet Nokia 210 
+    Man hinh:
+        Cong nghe man hinh: TFT 
+        Do phan giai: QVGA (240 x 320 Pixels) 
+        Man hinh rong:  2.4  
+        Mat kinh cam ung:  Khong co cam ung 
+    Camera sau:
+        Do phan giai: 0.3 MP 
+        Quay phim: Co quay phim 
+        Den Flash: Co 
+        Chup anh nang cao: Khong 
+    Camera truoc: 
+        Do phan giai: Khong 
+        Videocall: Khong 
+        Thong tin khac: Khong 
+    He dieu hanh - CPU: 
+        He dieu hanh Khong 
+        Chipset (hang SX CPU): Khong 
+        Toc do CPU: Khong 
+        Chip do hoa (GPU): Khong 
+    Bo nho & Luu tru: 
+        RAM: Khong 
+        Bo nho trong: 16 MP 
+        Bo nho con lai (kha dung): Khong 
+        The nho ngoai MicroSD: ho tro toi da 32 GB 
+    Ket noi: 
+        Mang di dong: 2G 
+        SIM: 2 SIM thuong 
+        Wifi: Khong 
+        GPS: Khong 
+        Bluetooth: Co 
+        Cong ket noi/sac: Micro USB 
+        Jack tai nghe: 3.5 mm 
+        Ket noi khac: Khong 
+    Thiet ke & Trong luong 
+        Thiet ke: Pin roi 
+    Chat lieu Khung & Mat lung nhua 
+        Kich thuoc Dai 120.8 mm - Ngang 53.5 mm - Day 13.8 mm 
+        Trong luong 97.3 g 
+    Thong tin pin & Sac: 
+        Dung luong pin: 1020 mAh 
+        Loai pin: Pin chuan Li-Ion 
+        Cong nghe pin: Khong 
+    Tien ich: 
+        Bao mat nang cao: Khong 
+        Tinh nang dac biet: Chan tin nhan Chan cuoc goi Den pin  
+        Ghi am: Khong
+        Radio: Co
+        Xem phim: Khong
+        Nghe nhac: Co
+    Thong tin khac:
+        Thoi diem ra mat: 03/2019
+        Price: 780.000d
+next
+Thong so ky thuat chi tiet Nokia 150 (khong tang the nho)
+    Man hinh:
+        Cong nghe man hinh: TFT
+        Do phan giai: QVGA (240 x 320 Pixels)
+        Man hinh rong:  2.4
+        Mat kinh cam ung:  Khong co cam ung
+    Camera sau:
+        Do phan giai: VGA (480 x 640 pixels)
+        Quay phim: Co quay phim
+        Den Flash: Co
+        Chup anh nang cao: Khong
+    Camera truoc:
+        Do phan giai: Khong
+        Videocall: Khong
+        Thong tin khac: Khong
+    He dieu hanh - CPU:
+        He dieu hanh Khong
+        Chipset (hang SX CPU): Khong
+        Toc do CPU: Khong
+        Chip do hoa (GPU): Khong
+    Bo nho & Luu tru:
+        RAM: Khong
+        Bo nho trong: Khong
+        Bo nho con lai (kha dung): Khong
+        The nho ngoai MicroSD: ho tro toi da 32 GB
+    Ket noi:
+        Mang di dong: 2G
+        SIM: 2 SIM thuong
+        Wifi: Khong
+        GPS: Khong
+        Bluetooth: v3.0 A2DP
+        Cong ket noi/sac: Jack sac theo may
+        Jack tai nghe: 3.5 mm
+        Ket noi khac: Khong
+    Thiet ke & Trong luong:
+        Thiet ke: Pin roi
+    Chat lieu Khung & Mat lung nhua:
+        Kich thuoc Dai 118 mm - Ngang 50.2 mm - Day 13.5 mm
+        Trong luong 81 g
+    Thong tin pin & Sac:
+        Dung luong pin: 1020 mAh
+        Loai pin: Pin chuan Li-Ion
+        Cong nghe pin: Khong
+    Tien ich:
+        Bao mat nang cao: Khong
+        Tinh nang dac biet: Khong
+        Ghi am: Khong
+        Radio: Co
+        Xem phim: 3GP MP4
+        Nghe nhac: MP3
+    Thong tin khac:
+        Thoi diem ra mat: 1/2017
+        Price: 650.000d
+next
+Thong so ky thuat chi tiet Nokia 130 (2017)
+    Man hinh:
+        Cong nghe man hinh: TFT
+        Do phan giai: QQVGA (120 x 160 pixels)
+        Man hinh rong:  1.8
+        Mat kinh cam ung:  Khong co cam ung 
+    Camera sau:
+        Do phan giai: VGA (480 x 640 pixels)
+        Quay phim: Co quay phim
+        Den Flash: Khong
+        Chup anh nang cao: Khong
+    Camera truoc:
+        Do phan giai: Khong
+        Videocall: Khong
+        Thong tin khac: Khong
+    He dieu hanh - CPU:
+        He dieu hanh Khong
+        Chipset (hang SX CPU): Khong
+        Toc do CPU: Khong
+        Chip do hoa (GPU): Khong
+    Bo nho & Luu tru:
+        RAM: Khong
+        Bo nho trong: Khong
+        Bo nho con lai (kha dung): Khong
+        The nho ngoai MicroSD: ho tro toi da 32 GB
+    Ket noi:
+        Mang di dong: 2G Khong ket noi internet
+        SIM: 2 SIM thuong
+        Wifi: Khong
+        GPS: Khong
+        Bluetooth: v3.0
+        Cong ket noi/sac: Micro USB
+        Jack tai nghe: 3.5 mm
+        Ket noi khac: Khong
+    Thiet ke & Trong luong:
+        Thiet ke: Pin roi
+    Chat lieu Khung & Mat lung nhua:
+        Kich thuoc Dai 111.5 mm - Ngang 48.4 mm - Day 14.2 mm
+        Trong luong 73 g
+    Thong tin pin & Sac:
+        Dung luong pin: 1020 mAh
+        Loai pin: Pin chuan Li-Ion
+        Cong nghe pin: Khong
+    Tien ich:
+        Bao mat nang cao: Khong
+        Tinh nang dac biet: Ghi am cuoc goi
+        Ghi am: Co
+        Radio: Co
+        Xem phim: Khong
+        Nghe nhac: MP3
+    Thong tin khac:
+        Thoi diem ra mat: 10/2017
+        Price: 520.000d
+next
+Thong so ky thuat chi tiet Nokia 110 (2019):
+    Man hinh:
+        Cong nghe man hinh: TFT
+        Do phan giai: QQVGA (120 x 160 pixels)
+        Man hinh rong:  1.77
+        Mat kinh cam ung:  Khong co cam ung
+    Camera sau:
+        Do phan giai: QVGA 320x240
+        Quay phim: Co quay phim
+        Den Flash: Khong
+        Chup anh nang cao: Khong
+    Camera truoc:
+        Do phan giai: Khong
+        Videocall: Khong
+        Thong tin khac: Khong
+    He dieu hanh - CPU:
+        He dieu hanh Khong
+        Chipset (hang SX CPU): Khong
+        Toc do CPU: Khong
+        Chip do hoa (GPU): Khong
+    Bo nho & Luu tru:
+        RAM: Khong
+        Bo nho trong: Khong
+        Bo nho con lai (kha dung): Khong
+        The nho ngoai MicroSD: ho tro toi da 32 GB
+    Ket noi:
+        Mang di dong: 2G Khong ket noi internet
+        SIM: 2 SIM thuong
+        Wifi: Khong
+        GPS: Khong
+        Bluetooth: Khong
+        Cong ket noi/sac: Micro USB
+        Jack tai nghe: 3.5 mm
+        Ket noi khac: Khong
+    Thiet ke & Trong luong:
+        Thiet ke: Pin roi
+    Chat lieu Khung & Mat lung nhua:
+        Kich thuoc Dai 115.2 mm - Ngang 49.9 mm - Day 14.3 mm
+        Trong luong 80 g
+    Thong tin pin & Sac:
+        Dung luong pin: 800 mAh
+        Loai pin: Pin chuan Li-Ion
+        Cong nghe pin: Khong
+    Tien ich:
+        Bao mat nang cao: Khong
+        Tinh nang dac biet: Den pin
+        Ghi am: Khong
+        Radio: Co
+        Xem phim: Khong
+        Nghe nhac: MP3
+    Thong tin khac:
+        Thoi diem ra mat: 10/2019
+        Price: 470.000d
+next
+Thong so ky thuat chi tiet Nokia 105 Dual (2019)
+    Man hinh:
+        Cong nghe man hinh: TFT
+        Do phan giai: QQVGA (120 x 160 pixels)
+        Man hinh rong:  1.77
+        Mat kinh cam ung:  Khong co cam ung
+    Camera sau:
+        Do phan giai: Khong co
+        Quay phim: Khong
+        Den Flash: Khong
+        Chup anh nang cao: Khong
+    Camera truoc:
+        Do phan giai: Khong
+        Videocall: Khong
+        Thong tin khac: Khong
+    He dieu hanh - CPU:
+        He dieu hanh Khong
+        Chipset (hang SX CPU): Khong
+        Toc do CPU: Khong
+        Chip do hoa (GPU): Khong
+    Bo nho & Luu tru:
+        RAM: Khong
+        Bo nho trong: Khong
+        Bo nho con lai (kha dung): Khong
+        The nho ngoai: Khong
+    Ket noi:
+        Mang di dong: 2G Khong ket noi internet
+        SIM: 2 SIM thuong
+        Wifi: Khong
+        GPS: Khong
+        Bluetooth: Khong
+        Cong ket noi/sac: Micro USB
+        Jack tai nghe: 3.5 mm
+        Ket noi khac: Khong
+    Thiet ke & Trong luong
+        Thiet ke: Pin roi
+    Chat lieu Khung & Mat lung nhua:
+        Kich thuoc Dai 111.9 mm - Ngang 49.2 mm - Day 14.4 mm
+        Trong luong 73 g
+    Thong tin pin & Sac:
+        Dung luong pin: 800 mAh
+        Loai pin: Pin chuan Li-Ion
+        Cong nghe pin: Khong
+    Tien ich:
+        Bao mat nang cao: Khong
+        Tinh nang dac biet: Chan tin nhan Den pin Chan cuoc goi
+        Ghi am: Khong
+        Radio: Co
+        Xem phim: Khong
+        Nghe nhac: Khong
+    Thong tin khac:
+        Thoi diem ra mat: 09/2019
+        Price: 360.000d
+next 
+Thong so ky thuat chi tiet Nokia 105 Single SIM (2019)
+    Man hinh:
+        Cong nghe man hinh: TFT
+        Do phan giai: QQVGA (120 x 160 pixels)
+        Man hinh rong:  1.77
+        Mat kinh cam ung:  Khong co cam ung
+    Camera sau:
+        Do phan giai: Khong co
+        Quay phim: Khong
+        Den Flash: Khong
+        Chup anh nang cao: Khong
+    Camera truoc:
+        Do phan giai: Khong
+        Videocall: Khong
+        Thong tin khac: Khong
+    He dieu hanh - CPU:
+        He dieu hanh Khong
+        Chipset (hang SX CPU): Khong
+        Toc do CPU: Khong
+        Chip do hoa (GPU): Khong
+    Bo nho & Luu tru:
+        RAM: Khong
+        Bo nho trong: Khong
+        Bo nho con lai (kha dung): Khong
+     The nho ngoai Khong
+    Ket noi:
+        Mang di dong: 2G Khong ket noi internet
+        SIM: 1 SIM thuong
+        Wifi: Khong
+        GPS: Khong
+        Bluetooth: Khong
+        Cong ket noi/sac: Micro USB
+        Jack tai nghe: 3.5 mm
+        Ket noi khac: Khong
+    Thiet ke & Trong luong:
+        Thiet ke: Pin roi
+    Chat lieu Khung & Mat lung nhua:
+        Kich thuoc Dai 111.9 mm - Ngang 49.2 mm - Day 14.4 mm
+        Trong luong 73 g:
+    Thong tin pin & Sac:
+        Dung luong pin: 800 mAh:
+        Loai pin: Pin chuan Li-Ion:
+        Cong nghe pin: Khong:
+    Tien ich::
+        Bao mat nang cao: Khong:
+        Tinh nang dac biet: Chan cuoc goi Chan tin nhan Den pin:
+        Ghi am: Khong:
+        Radio: Co:
+        Xem phim: Khong:
+        Nghe nhac: Khong:
+    Thong tin khac:
+        Thoi diem ra mat: 09/2019
+        Price: 350.000d
+next
+Thong so ky thuat chi tiet Nokia 105 Single Sim (2017):
+    Man hinh:
+        Cong nghe man hinh: TFT
+        Do phan giai: QQVGA (120 x 160 pixels)
+        Man hinh rong:  1.8
+        Mat kinh cam ung:  Khong co cam ung
+    Camera sau:
+        Do phan giai: Khong co
+        Quay phim: Khong
+        Den Flash: Khong
+        Chup anh nang cao: Khong
+    Camera truoc:
+        Do phan giai: Khong
+        Videocall: Khong
+        Thong tin khac: Khong
+    He dieu hanh - CPU:
+        He dieu hanh Khong
+        Chipset (hang SX CPU): Khong
+        Toc do CPU: Khong
+        Chip do hoa (GPU): Khong
+    Bo nho & Luu tru:
+        RAM: Khong
+        Bo nho trong: Khong
+        Bo nho con lai (kha dung): Khong
+        The nho ngoai: Khong
+    Ket noi:
+        Mang di dong: 2G Khong ket noi internet
+        SIM: 1 SIM thuong
+        Wifi: Khong
+        GPS: Khong
+        Bluetooth: Khong
+        Cong ket noi/sac: Micro USB
+        Jack tai nghe: 3.5 mm
+        Ket noi khac: Khong 
+    Thiet ke & Trong luong 
+        Thiet ke: Pin roi
+    Chat lieu Khung & Mat lung nhua:
+        Kich thuoc Dai 112 mm - Ngang 49.5 mm - Day 14.4 mm
+        Trong luong 73 g 
+    Thong tin pin & Sac:
+        Dung luong pin: 800 mAh
+        Loai pin: Pin chuan Li-Ion
+        Cong nghe pin: Khong
+    Tien ich:
+        Bao mat nang cao: Khong
+        Tinh nang dac biet: Khong
+        Ghi am: Khong
+        Radio: Co
+        Xem phim: Khong
+        Nghe nhac: Khong
+    Thong tin khac:
+        Thoi diem ra mat: 8/2017
+        Price: 350.000d
