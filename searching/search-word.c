@@ -33,10 +33,10 @@ int main(){
     scanf("%s",finding_string);
     FILE *ptr = fopen("words.txt","r");
     int count = 0;
-    char *arr = (char *) malloc(sizeof(char) *1000);
-    while(!feof(ptr)){
-        fscanf(ptr,"%s\n",arr);
-        if(_isMatch(finding_string,arr))
+    char *arr = (char *) malloc(sizeof(char) *50);
+    while(fgets(arr,50,ptr) != 0){
+        arr = strtok(arr," ");
+        if(isMatch(finding_string,arr))
                 printf("%s\n",arr);
     }
 }
