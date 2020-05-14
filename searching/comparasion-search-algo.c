@@ -63,7 +63,6 @@ int sentinelSearch(int arr[], int n, int target)
             count2++;
             i++;
     }
-  
     // Put the last element back 
     arr[n - 1] = last; 
   
@@ -76,9 +75,9 @@ int main(){
   int list [] = {0,1,2,3,4,5,6,7,8,9,12,13,15,18,32,67,78,79,81,85,92,102};
   int n = sizeof(list) / sizeof(int);
   //printArray(list,n);
-  binary_search_recurse(list,102,n-1,0);
-  sequentialSearch(list,n,102);
-  sentinelSearch(list,n,102);
+  binary_search_recurse(list,32,n-1,0);
+  sequentialSearch(list,n,32);
+  sentinelSearch(list,n,32);
   //binary_search(list,21,n);
   printf("The number of comparasion times of Binary Search: %d\n",count);
   printf("The number of comparasion times of Sequential Search: %d\n",count1);
