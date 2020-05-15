@@ -35,8 +35,7 @@ int main(){
     int count = 0;
     char *arr = (char *) malloc(sizeof(char) *50);
     while(fgets(arr,50,ptr) != 0){
-        arr = strtok(arr," ");
         if(isMatch(finding_string,arr))
-                printf("%s\n",arr);
+                printf("%s",arr);
     }
 }

@@ -46,9 +46,8 @@ void verification(int list1[],int list2[],int type,int size1,int size2){
         printf("\n");
     }else{
         for(int i = 0 ; i < size1 ; i++){
-            if(i < size2){
-                if(list1[i] != list2[i]) printf("%d ",list1[i]);
-            }
+            if(binary_search_recurse(list2,list1[i],size2,0) != -1)
+                printf("%d ",list1[i]);
         }
         printf("\n");
     }
