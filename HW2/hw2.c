@@ -3,6 +3,7 @@
 #include<string.h>
 #include<stdlib.h>
 #include<ctype.h> 
+#include<stdio_ext.h>
 typedef struct Infor{
     char model[35];
     char memory[35];
@@ -67,7 +68,49 @@ int SearchingModel(char model[]){
     printf("Found %d result(s) for '%s'\n",count,model);
     return -1;
 }
+void ChangeData(Infor_t *firstS, Infor_t *secondS){
+    char *temp = (char *) calloc(sizeof(char), 256);
+    strcpy(temp,firstS->model);
+    strcpy(firstS->model,secondS->model);
+    strcpy(secondS->model,temp);
 
+    strcpy(temp,firstS->memory);
+    strcpy(firstS->memory,secondS->memory);
+    strcpy(secondS->memory,temp);
+
+    strcpy(temp,firstS->displaySize);
+    strcpy(firstS->displaySize,secondS->displaySize);
+    strcpy(secondS->displaySize,temp);
+
+    strcpy(temp,firstS->price);
+    strcpy(firstS->price,secondS->price);
+    strcpy(secondS->price,temp);
+}
+void UpdateFileText(FILE *fin){
+    FILE *f = fopen("Phone.txt","w");
+    fclose(f);
+    for(int i = 0 ; i < size ; i++){
+        fprintf(fin,"%s %s %s %s\n",(importData +i)->model,(importData +i)->memory,(importData +i)->displaySize,(importData +i)->price);
+    }
+    fclose(fin);
+}
+int MTFSearching(char model[]){
+    int i = 0;
+    while(strcmp(model,(importData + i)->model) != 0) i++;
+    if(i == size){
+        printf("Not Found\n");
+        return -1;
+    }
+    // Must fix
+    if(i == 0) return i;
+    ChangeData(importData,importData + i);
+    FILE *fin = fopen("Phone.txt","r");
+    UpdateFileText(fin);
+    size = 0;
+    importDataF(fin);
+    fclose(fin);
+    return 0;
+}
 int main(){
     //SetConsoleOutputCP(CP_UTF8); // Display Vietnamese
     importData = (Infor_t *) malloc(sizeof(Infor_t) *10000);
@@ -113,9 +156,10 @@ int main(){
             // char model[20];
             char model[20];
             do{
+                __fpurge(stdin);
                 scanf("%s",model);
             }while(strlen(model) > 20);
-            int i = SearchingModel(model);
+            int i = MTFSearching(model);
             printf("%-35s%-35s%-35s%s\n",(importData+i)->model,(importData+i)->memory,(importData+i)->displaySize,(importData+i)->price);
             break;
         default:
