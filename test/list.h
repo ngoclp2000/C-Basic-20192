@@ -1,7 +1,6 @@
 #ifndef _LIST_H_
 #define _LIST_H_
-
-typedef int element_t;
+#include "main.h"
 
 struct Node {
   element_t data;

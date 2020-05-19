@@ -21,6 +21,6 @@ int main() {
   if (find(l, 4) == NULL) {
     printf("Correct!\n");
   }
-  printf("%d\n",nth(l,1)->data);
+  //printf("%d\n",nth(l,1)->data);
   return 0;
 }
