@@ -1,15 +1,7 @@
 #ifndef _LIST_H_
 #define _LIST_H_
 #include "main.h"
-
-struct Node {
-  element_t data;
-  struct Node *next;
-};
-
-typedef struct Node* list;
-typedef struct Node* node_t;
-
+typedef struct BookNode *list;
 // create new empty list
 list create_list();
 
