@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -167,15 +166,4 @@ int isExist(BookDB db,BookDB b){
     }
     if ( db == NULL) return 0;
     return 1;
-=======
-#include<stdio.h>
-#include<string.h>
-#include<stdlib.h>
-#include "book.h"
-#include "main.h"
-BookDB read_db(char *filename){
-    FILE *fin = fopen(filename,"r");
-    int n;
-    fscanf(fin,"%d\n",&n);
->>>>>>> 8b12faed52230b00dee6eeddb515cda524b301ca
 }

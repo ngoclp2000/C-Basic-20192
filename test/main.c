@@ -3,7 +3,6 @@
 #include<string.h>
 #include "main.h"
 #include "book.h"
-<<<<<<< HEAD
 #include<stdio_ext.h>
 int main(){
     BookDB head = NULL;
@@ -87,8 +86,4 @@ int main(){
             break;
         }
     }while(choice != 8);
-=======
-int main(){
-    read_db("bookdb.txt");
->>>>>>> 8b12faed52230b00dee6eeddb515cda524b301ca
 }
