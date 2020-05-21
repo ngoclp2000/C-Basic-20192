@@ -1,12 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+#include "main.h"
 #include "list.h"
 
-node_t make_node(element_t x) {
-  node_t n = (node_t)malloc(sizeof(struct Node));
-  n->data = x;
-  n->next = NULL;
+node_t make_node(node_t x) {
+  node_t n = (node_t) malloc(sizeof(struct BookNode));
   return n;
 }
 
@@ -22,7 +20,7 @@ int is_empty(list l) {
 
 
 // insert new element after a specific node 
-list insert_after(list l, struct Node *p, element_t x) {
+list insert_after(list l, struct BookNode *p, node_t x) {
   node_t n = make_node(x);
   if (l == NULL) {
     return n;
@@ -34,7 +32,7 @@ list insert_after(list l, struct Node *p, element_t x) {
 }
 
 // insert new element before a specific node 
-list insert_before(list l, struct Node *p, element_t x) {
+list insert_before(list l, struct BookNode *p, node_t x) {
   node_t n = make_node(x);
   node_t prev;
   
@@ -52,7 +50,7 @@ list insert_before(list l, struct Node *p, element_t x) {
 }
 
 // remove an element
-list remove_at(list l, struct Node *p) {
+list remove_at(list l, struct BookNode *p) {
   node_t prev;
   
   if (l == NULL)
@@ -70,13 +68,9 @@ list remove_at(list l, struct Node *p) {
 }
 
 // search
-node_t find(list l, element_t x) {
+node_t find(list l, node_t x) {
   node_t p = l;
 
-  while ((p != NULL) && (p->data != x))
-    p = p->next;
-
-  return p;
 }
 
 // free a list
@@ -112,13 +106,4 @@ int length(list l){
     length++;
   }
   return length;
-}
-list reverse(list l){
-  list reverseList = create_list();
-  while(l != NULL){
-    printf("%d\n",l->data);
-    reverseList = insert_before(reverseList,reverseList,l->data);
-    l = l->next;
-  }
-  return reverseList;
 }
