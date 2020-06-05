@@ -9,7 +9,7 @@ int main(){
     TuyenXeDb txhead =NULL;
     int choice;
     do{
-        printf("1.ImportData\n2.Them tuyen xe\n3.Them diemdo\n4.Tim kiem\n5.Tim kiem diem do thich hop\n6.Export data\n7.Exit");
+        printf("1.ImportData\n2.Adding new buses\n3.Adding new parking place\n4.Finding\n5.Finding suitable parking place\n6.Export data\n7.Exit\n");
         scanf("%d",&choice);
         switch (choice){
             case 1:
@@ -56,15 +56,18 @@ int main(){
                 break;
             case 4:
                     printf("All the buses pass that parking place\n");
+                    int count = 0;
                     char id_parking[10];
                     scanf("%s",id_parking);
                     TuyenXeDb temp = txhead;
                     while(temp != NULL){
                         if(isExistdd(temp->dsDiemDo,id_parking)){
+                            count++;
                             printf("%s\n",temp->id);
                         }
                         temp = temp->next;
                     }
+                    if(count == 0) printf("Can not find anything!\n");
                 break;
             case 5:
                     printf("Enter the coordinate\n");
@@ -87,7 +90,7 @@ int main(){
                     printf("The minimum distance parking place is at: %s\n",id_min_parking);
                     break;
             case 6:
-                printf("Export Data.....\n");
+                printf("\n");
                 FILE *fout1 = fopen("diemdo2.txt","w+");
                 FILE *fout2 = fopen("tuyenxe2.txt","w+");
                 DiemDoDB out_dd = dbhead;

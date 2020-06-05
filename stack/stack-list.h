@@ -1,7 +1,7 @@
 #ifndef _STACK_LIST_H_
 #define _STACK_LIST_H_
 
-typedef int element_t;
+typedef char element_t;
 
 struct Node {
   element_t data;

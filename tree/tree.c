@@ -27,13 +27,13 @@ void makeNULLTree(tree *t){
 }
 // Return the left node of the current node
 tree leftNode(tree t){
-    if(t->left != NULL) return t->left;
-    else return NULL;
+    if(t->left != NULL) return leftNode(t->left);
+    else return t;
 }
 // Return the right node of the current node
 tree rightNode(tree t){
-    if(t->right != NULL) return t->right;
-    else return NULL;
+    if(t->right != NULL) return rightNode(t->right);
+    else return t;
 }
 // Adding a new node to the left most of tree
 tree addLeftMost(tree t,element_t x){
@@ -99,18 +99,18 @@ void insert(tree *t, element_t x){
 //     else return Insert(t->right,x);
 // }
 void delete(tree *t,element_t x){
-    if((*t) == NULL) return NULL;
+    if((*t) == NULL) return;
     if((*t)->data == x) t = NULL;
     else if(x < (*t)->data){
         delete(&(*t)->left,x);
     }else delete(&(*t)->right,x);
 }
-void freeTree(tree *t){
-    if((*t) != NULL){
-        freeTree(&(*t)->left);
-        free(&(*t)->left);
-        freeTree(&(*t)->right);
-        free(&(*t)->right);
+void freeTree(tree t){
+    if(t != NULL){
+        freeTree(t->left);
+        free(t->left);
+        freeTree(t->right);
+        free(t->right);
         free(t);
     }
 }
@@ -140,4 +140,55 @@ void prettyPrint(tree t,char *prefix){
 		strcat(prefix,"     ");
 		prettyPrint(t->right,prefix);
 	}
+}
+int heightTree(tree t){
+    if(t == NULL) return 0;
+    return 1 + heightTree(t->left) + heightTree(t->right);
+}
+int countLeaf(tree t){
+    if(t == NULL) return 0;
+    if(t->left == NULL && t->right == NULL) return 1 + countLeaf(t->left) + countLeaf(t->right);
+    else return countLeaf(t->left) + countLeaf(t->right);
+}
+int countInnerNode(tree t){
+    if(t == NULL) return 0;
+    if(t->left != NULL || t->right != NULL) return 1 + countInnerNode(t->right) + countInnerNode(t->left);
+    else return 0;
+}
+int rightChildCount(tree t) {
+  if(t == NULL) return 0;
+  return 1 + rightChildCount(t->right);
+}
+tree  minValueNode(tree node) 
+{ 
+    tree current = node; 
+  
+    /* loop down to find the leftmost leaf */
+    while (current && current->left != NULL) 
+        current = current->left; 
+  
+    return current; 
+} 
+tree deleteNode(tree root,element_t x){
+        if (root == NULL) return root;
+    if(x < root->data){
+        root->left = deleteNode(root->left,x);
+    }else if(x > root->data){
+        root->right = deleteNode(root->right,x);
+    }else{
+        if(root->left == NULL){
+            tree temp = root->right;
+            free(root);
+            return temp;
+        }else if(root->right == NULL){
+            tree temp = root->left;
+            free(root);
+            return temp; 
+        }else{
+            tree temp = minValueNode(root->right);
+            root->data = temp->data;
+            root->right = deleteNode(root->right,temp->data);
+        }
+    }
+    return root;
 }
