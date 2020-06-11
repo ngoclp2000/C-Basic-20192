@@ -1,18 +1,13 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
-struct DiemDoNode{
+struct BookNode{
     char id[10];
-    int x;
-    int y;
-    struct DiemDoNode *next;
+    char title[50];
+    char author[20];
+    int published_years;
+    struct BookNode *next;
 };
 typedef int element_t;
-typedef struct DiemDoNode *DiemDoDB;
-struct TuyenXeNode{
-    char id[10];
-    int soDiemDo;
-    DiemDoDB dsDiemDo;
-    struct TuyenXeNode *next;
-};
-typedef struct TuyenXeNode *TuyenXeDb;
+typedef struct BookNode *node_t;
+typedef struct BookNode *BookDB;
 #endif

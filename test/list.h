@@ -1,7 +1,7 @@
 #ifndef _LIST_H_
 #define _LIST_H_
 #include "main.h"
-typedef struct BookNode *list;
+typedef struct Node *list;
 // create new empty list
 list create_list();
 

@@ -4,7 +4,7 @@
 #include "list.h"
 
 node_t make_node(node_t x) {
-  node_t n = (node_t) malloc(sizeof(struct BookNode));
+  node_t n = (node_t) malloc(sizeof(struct Node));
   return n;
 }
 
@@ -20,7 +20,7 @@ int is_empty(list l) {
 
 
 // insert new element after a specific node 
-list insert_after(list l, struct BookNode *p, node_t x) {
+list insert_after(list l, struct Node *p, node_t x) {
   node_t n = make_node(x);
   if (l == NULL) {
     return n;
@@ -32,7 +32,7 @@ list insert_after(list l, struct BookNode *p, node_t x) {
 }
 
 // insert new element before a specific node 
-list insert_before(list l, struct BookNode *p, node_t x) {
+list insert_before(list l, struct Node *p, node_t x) {
   node_t n = make_node(x);
   node_t prev;
   
@@ -50,7 +50,7 @@ list insert_before(list l, struct BookNode *p, node_t x) {
 }
 
 // remove an element
-list remove_at(list l, struct BookNode *p) {
+list remove_at(list l, struct Node *p) {
   node_t prev;
   
   if (l == NULL)
